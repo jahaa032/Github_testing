@@ -19,6 +19,8 @@ h1 {color: #1f3c88}
 }
 
 @media (prefers-color-scheme: dark) {
-    background-color: #111;
-    color: #f4f4f4
+    body {
+        background-color: #111;
+        color: #f4f4f4
+    }
 }
