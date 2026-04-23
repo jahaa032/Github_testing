@@ -4,6 +4,8 @@ body {
     margin: 0
 }
 
+button {background: transparent}
+
 .container {
     margin: 40px auto;
     text-align: center;
@@ -20,7 +22,9 @@ h1 {color: #1f3c88}
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #111;
+        background-color: #222;
         color: #f4f4f4
     }
+
+    button {color: #f4f4f4}
 }
