@@ -19,3 +19,8 @@ h1 {
     padding: 20px;
     margin: 20px 0;
 }
+
+@media (prefers-color-scheme: dark) {
+    background-color: #111;
+    color: #f4f4f4
+}
